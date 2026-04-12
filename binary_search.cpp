@@ -17,7 +17,7 @@ int main()
            start = mid + 1 ;
            
        }
-       else{
+       else{ 
            end = mid - 1 ;
        }
    }
@@ -26,3 +26,5 @@ int main()
 
     return 0;
 }
+
+//hey
